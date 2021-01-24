@@ -10,6 +10,9 @@ const palette = {
   },
   yellow: {
     maximumYellowRed: 'rgb(250, 192, 94)'
+  },
+  grey: {
+    warmLight: 'rgb(241, 241, 244)'
   }
 }
 
@@ -18,5 +21,6 @@ export const theme = {
 		primary: palette.blue.ceruleanCrayola,
 		sucess: palette.green.emerald,
 		danger: palette.red.fireOpal,
+    background: palette.grey.warmLight,
 	}
 };

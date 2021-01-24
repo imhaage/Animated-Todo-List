@@ -12,9 +12,13 @@
   "dependencies": {
     "esbuild": "^0.5.14",
     "framer-motion": "^3.2.2-rc.1",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
+    "normalize.css": "^8.0.1",
+    "react": "^17",
+    "react-dom": "^17",
+    "react-icons": "^4.1.0",
     "static-here": "^1.0.0",
-    "styled-components": "^5.2.1"
+    "styled-components": "^5.2.1",
+    "uuid": "^8.3.2",
+    "uuidv4": "^6.2.6"
   }
 }
